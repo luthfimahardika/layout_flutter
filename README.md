@@ -11,3 +11,9 @@ PRAKTIKUM 3
 
 PRAKTIKUM 4
 <img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/386c368a-83db-440c-b254-94478199aeed" />
+
+TUGAS PRAKTIKUM 2
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/98f4c18a-b5d6-4f20-baff-5d2c02a2d8c2" />
+
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/b839b744-4def-4078-9dd5-5f9b05518e47" />
+
