@@ -1,16 +1,13 @@
 # layout_flutter
 
-A new Flutter project.
+PRAKTIKUM 1
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/1984ecb5-cc4e-4862-9441-cea4406ec5c3" />
 
-## Getting Started
+PRAKTIKUM 2
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/a10acaac-0111-4cfd-8389-39587e5cc17b" />
 
-This project is a starting point for a Flutter application.
+PRAKTIKUM 3
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/76454324-3037-4398-bac7-b293b57cf934" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PRAKTIKUM 4
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/386c368a-83db-440c-b254-94478199aeed" />
