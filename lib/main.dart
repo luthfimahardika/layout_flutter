@@ -71,13 +71,31 @@ class MyApp extends StatelessWidget {
       ],
     );
 
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Gunung tertinggi di Pulau Jawa ini memiliki ketinggian 3.676 Mdpl. '
+        'Salah satu tujuan impian para pendaki, '
+        ' dan dianggap sebagai pencapaian jika sampai ke puncaknya '
+        'Nama : Luthfi Putra Mahardika '
+        'NIM  : 2341760181 ',
+        softWrap: true,
+      ),
+    );
+
     return MaterialApp(
       title: 'Flutter layout: Luthfi Putra Mahardika / 2341760181',
       home: Scaffold(
         appBar: AppBar(title: const Text('Flutter layout demo')),
-        body: Column(children: [
+        body: ListView(children: [
+          Image.asset('images/semeru.jpeg', 
+            width: 600,
+            height: 240,
+            fit: BoxFit.cover,
+          ),
           titleSection,
           buttonSection,
+          textSection,
           ],
         ),
       ),
